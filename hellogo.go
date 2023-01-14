@@ -11,3 +11,7 @@ func SayHi() {
 	fmt.Println("hi")
 
 }
+
+func AddGood() {
+	fmt.Println("add good")
+}
