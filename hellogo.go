@@ -17,6 +17,6 @@ func AddGood() {
 }
 
 func V2hello() {
-	fmt.Println("v2")
+	fmt.Println("v2 go v2.0.1")
 
 }
