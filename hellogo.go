@@ -13,5 +13,5 @@ func SayHi() {
 }
 
 func AddGood() {
-	fmt.Println("add good")
+	fmt.Println("add good v1.0.3 修改了，准备去到v1.0.4")
 }
