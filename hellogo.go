@@ -3,7 +3,7 @@ package hellogo
 import "fmt"
 
 func Hello() {
-	fmt.Println("hello")
+	fmt.Println("this is hello 3")
 
 }
 
@@ -14,9 +14,4 @@ func SayHi() {
 
 func AddGood() {
 	fmt.Println("add good")
-}
-
-func V2hello() {
-	fmt.Println("v2 go v2.0.1")
-
 }
