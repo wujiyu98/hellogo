@@ -3,7 +3,7 @@ package hellogo
 import "fmt"
 
 func Hello() {
-	fmt.Println("this is hello 3")
+	fmt.Println("hello update v2.0.2")
 
 }
 
